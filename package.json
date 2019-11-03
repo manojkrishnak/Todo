@@ -1,0 +1,20 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "This is to-do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "to-do"
+  ],
+  "author": "Manoj Krishna K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  }
+}
